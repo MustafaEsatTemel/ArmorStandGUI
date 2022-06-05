@@ -1,0 +1,8 @@
+name: ArmorStandGUI
+version: '${project.version}'
+main: tr.mustafaesattemel.armorstandgui.ArmorStandGUI
+commands:
+  armorstand:
+    usage: /<command>
+    aliases:
+      - as
